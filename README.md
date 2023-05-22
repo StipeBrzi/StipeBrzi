@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stjepan Brzica
 - 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning Swift and SwiftUI
+- 🌱 I’m currently learning Go lang
 - 📫 How to reach me: stjepan.brzica@pm.me
 
 <!---
